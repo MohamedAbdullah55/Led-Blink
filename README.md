@@ -1,11 +1,11 @@
 # Led-Blink
 Simple C code for led blink using Arduino
 
-<img src='Arduino blink-1.jpg'>
+<img src='image_1.jpg'>
 
 <hr />
 
-<img src='Arduino blink-2.jpg'>
+<img src='image_2.jpg'>
 
 * Author Name : Mohamed Abdullah
 * Author links :   
